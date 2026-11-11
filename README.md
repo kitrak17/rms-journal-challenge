@@ -25,7 +25,7 @@ Upload the contents of this folder to a static HTTPS host such as GitHub Pages. 
 - Starting capital: ₹30,000; target: ₹1,00,000
 - First trade risk budget: ₹1,500
 - Subsequent risk budget: 10% of cumulative net realized P&L, provided it is positive
-- Minimum risk/reward: 1:2
+- Minimum risk/reward: 1:1
 - Reject if one lot exceeds the risk budget
 - Stop after two consecutive losses; pause if cumulative realized P&L is zero or negative
 
