@@ -1,0 +1,17 @@
+{
+  "name": "RichMindStreet Trading Journal",
+  "short_name": "RMS Journal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1218",
+  "theme_color": "#10151c",
+  "description": "Mobile-first local trading journal and risk calculator",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
